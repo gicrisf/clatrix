@@ -1,0 +1,13 @@
+* Clatrix 
+
+** Usage
+
+** Installation
+
+** Author
+
++ Giovanni Crisalfi
+
+** Copyright
+
+Copyright (c) 2024 Giovanni Crisalfi
